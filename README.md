@@ -8,11 +8,13 @@ Eu sou Karlla Toledo 👋🚀
   ______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 - 💼 MINHAS EXPERIÊNCIAS:
-- 
- tenho conhecimentos em HTML, CSS, Javascript, Bootstrap, bem como noções de programação, lógica de programação e Git. Sou advogada, com vasta experiência em negociações, soluções e mediações de conflitos e desenvolvimentos de práticas em audiências representando empresas.
-Ao longo dessa trajetória agregando carreiras, construir competências, como  Otimização de página · HTML semântico · Desenvolvimento de software · Documentação · Boas práticas de programação · Organização de reuniões · Cumprimento de prazos · Planejamento de projetos · Desenvolvimento de soluções · Planejamento de aulas · organização · Comunicação · Desenvolvimento de front-end · Apresentação de ideias · ministrar treinamentos · Trabalho em equipe.
+  
+Tenho conhecimentos em HTML, CSS, Javascript, Bootstrap, bem como noções de programação, lógica de programação e Git. Sou advogada, com vasta experiência em negociações, soluções e mediações de conflitos e desenvolvimentos de práticas em audiências representando empresas.
+Ao longo dessa trajetória agregando carreiras, adquirir competências, como:  Otimização de página · HTML semântico · Desenvolvimento de software · Documentação · Boas práticas de programação · Organização de reuniões · Cumprimento de prazos · Planejamento de projetos · Desenvolvimento de soluções · Planejamento de aulas · organização · Comunicação · Desenvolvimento de front-end · Apresentação de ideias · ministrar treinamentos · Trabalho em equipe.
 
-- 📫 Vamos nos Conectar? Estou pronta para sair da minha zona de conforto sempre e encarar os desafios nesse mundo maravilhoso do desenvolvimento Web.
+📫 Vamos nos Conectar?
+
+Estou pronta para sair da minha zona de conforto sempre e encarar os desafios nesse mundo maravilhoso do desenvolvimento Web.
 
 <!---
 KarllaToledo/KarllaToledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
