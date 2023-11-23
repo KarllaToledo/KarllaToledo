@@ -10,7 +10,9 @@ Eu sou Karlla Toledo 👋🚀
 - 💼 MINHAS EXPERIÊNCIAS:
   
 Tenho conhecimentos em HTML, CSS, Javascript, Bootstrap, bem como noções de programação, lógica de programação e Git. Sou advogada, com vasta experiência em negociações, soluções e mediações de conflitos e desenvolvimentos de práticas em audiências representando empresas.
-Ao longo dessa trajetória agregando carreiras, adquirir competências, como:  Otimização de página · HTML semântico · Desenvolvimento de software · Documentação · Boas práticas de programação · Organização de reuniões · Cumprimento de prazos · Planejamento de projetos · Desenvolvimento de soluções · Planejamento de aulas · organização · Comunicação · Desenvolvimento de front-end · Apresentação de ideias · ministrar treinamentos · Trabalho em equipe.
+Ao longo dessa trajetória agregando carreiras, adquirir competências, como:  
+
+.Otimização de página · HTML semântico · Desenvolvimento de software · Documentação · Boas práticas de programação · Organização de reuniões · Cumprimento de prazos · Planejamento de projetos · Desenvolvimento de soluções · Planejamento de aulas · organização · Comunicação · Desenvolvimento de front-end · Apresentação de ideias · ministrar treinamentos · Trabalho em equipe.
 
 📫 Vamos nos Conectar?
 
